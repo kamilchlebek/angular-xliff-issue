@@ -20,4 +20,7 @@
       </trans-unit>
     </body>
   </file>
+  <file original="app/account/home/home.component.ts" datatype="plaintext" source-language="en" target-language="fr">
+    <body/>
+  </file>
 </xliff>
