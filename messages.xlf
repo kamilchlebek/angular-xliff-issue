@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="f4d3d5ff4add63098b7b3d6d4e2187ca4c413c9d" datatype="html">
+        <source>some text</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f8e2f606669c998e86b46940ddc848b52da5a9e8" datatype="html">
+        <source>child works!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/child/child.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
